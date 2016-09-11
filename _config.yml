@@ -1,18 +1,18 @@
 # Site settings
-title: Slaaysourcecoders
-description: 'I am Presley Dias,'
+title: Casburn Noronha
+description: 'This is my journey into the world of IT.'
 url: 'https://casburn1988.github.io'
 baseurl: '/'
 google_analytics: 'UA-61560423-1'
 disqus_shortname: 'slaaygithubio'
 
 author:
-  name: 'Presley Dias'
-  email: presley.diaslee@gmail.com
+  name: 'Casburn Noronha'
+  email: casburn.noronha@gmail.com
   twitter_username: slaaysrcecoders
   facebook_username: slaaysourcecoders
-  github_username:  slaay
-  linkedin_username:  presleydias
+  github_username:  casburn1988
+  linkedin_username:  casburnnoronha
 
 defaults:
   -
@@ -25,7 +25,7 @@ defaults:
 # Build settings
 destination: _site
 paginate: 10
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:title/
 markdown: kramdown
 highlighter: rouge
 
