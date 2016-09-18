@@ -6,7 +6,7 @@ comments: true
 ---
 
 <div>
-	<img align="middle" src="/images/delphi/delphi_logo.png" >
+	<img align="middle" src="/images/site_logo2.png" >
 </div>
 
 
