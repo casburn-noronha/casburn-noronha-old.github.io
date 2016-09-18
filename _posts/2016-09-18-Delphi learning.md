@@ -1,1 +1,24 @@
 
+---
+title: Delphi
+image: 
+tags: [Jouney, GitHub]
+comments: true
+---
+
+<div>
+	<img align="middle" src="/images/me/journey.jpg" >
+</div>
+
+Journey
+------------
+This blog will be my journey to the world of IT!.
+I started my engineering in IT in 2016 and I am on my way to finish it in 2020. I have high aims
+and all that I do during these 4 years on IT engineering will be on this blog!
+
+I am part of [Slaaysourcecoders](http://slaaysourcecoders.in/work), Check out the site and also
+our Facebook page [facebook.com/slaaysourcecoders](http://facebook.com/slaaysourcecoders)
+
+Image reference [xzirria](http://xzirria.deviantart.com)
+
+
