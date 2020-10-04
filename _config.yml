@@ -1,7 +1,7 @@
 # Site settings
 title: Casburn Noronha
 description: 'This is my journey into the world of IT.'
-url: 'https://casburn1988.github.io'
+url: 'https://casburn-noronha.github.io'
 baseurl: '/'
 google_analytics: 'UA-83999817-1'
 disqus_shortname: 'https-casburn1988-github-io'
@@ -10,9 +10,9 @@ author:
   name: 'Casburn Noronha'
   email: casburn.noronha@gmail.com
   twitter_username: slaaysrcecoders
-  facebook_username: slaaysourcecoders
-  github_username:  casburn1988
-  linkedin_username:  casburnnoronha
+  facebook_username: casburn.noronha
+  github_username:  casburn-noronha
+  linkedin_username:  casburn-noronha
 
 defaults:
   -
