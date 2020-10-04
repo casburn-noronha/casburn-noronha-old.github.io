@@ -1,7 +1,7 @@
 # Site settings
 title: Casburn Noronha
 description: 'This is my journey into the world of IT.'
-url: 'https://casburn-noronha.github.io'
+url: 'https://casburn-noronha.github.io/'
 baseurl: '/'
 google_analytics: 'UA-83999817-1'
 disqus_shortname: 'https-casburn1988-github-io'
